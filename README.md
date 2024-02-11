@@ -18,6 +18,4 @@
 总之，社区的发展还是靠大家啦。 😉
 
 ## 怎样贡献？
-如果你还不熟悉 git 操作流程，建议先搜索学习 [github 贡献流程](https://cn.bing.com/search?q=github+%E8%B4%A1%E7%8C%AE%E6%B5%81%E7%A8%8B)
-### 选题
-
+请移步 wiki: https://github.com/CN-Open-Source-Translation-Team/TranslateProject-2024/wiki
